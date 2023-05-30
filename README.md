@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ROHIT KUMAE
+- 👋 Hi, I’m ROHIT KUMAR
 - 👀 I’m interested in web development & competitive coding
 - 🌱 I’m currently learning KIIT
 - 💞️ I’m looking to collaborate on ...
